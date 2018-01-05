@@ -1,0 +1,9 @@
+Things to do:
+Build a Sensor readout Thread
+Build a Motor readout thread
+Test Mode for each motor 
+Selector Widget for Dashboard
+S-Curve Profiles for Smooth Driving Control
+PID Loops for Subsystems
+Vision Processing using a Camera (Camera = ?)
+Co-Processor Programming???
